@@ -1,11 +1,11 @@
 #include "dog.h"
 
 /**
- * init_dog - initialize  struct
+ * init_dog - initialize dog struct
  *
  * @d: input pointer to struct dog
- * @name: input for name
- * @age: input for age
+ * @name: input for dog name
+ * @age: input for dog age
  * @owner: input for dog owner
  *
  * Return: nothing
