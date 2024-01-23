@@ -3,8 +3,6 @@
 /**
  * main point
  *
- * Description: prints the name of the file it was
- *
  * Return: Always 0 (Success)
 */
 
