@@ -1,9 +1,9 @@
 #include <stdarg.h>
 
 /**
- * sum_them_all adds all its parameters
+ * sum_them_all - adds all its parameters
  *
- * @n: start input variables
+ * @n: start of input variables
  *
  * Return: the sum
 */
